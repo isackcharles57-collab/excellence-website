@@ -28,6 +28,10 @@ h2 {
     url("https://images/photo-1588075592446-49d1f2b6b9f6?auto=format&fit=crop&w=1500&q=80")
     center/cover no-repeat;
   color:white; text-align:center; padding:100px 20px;
+  background-image: url(school.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 .hero h1 { font-size:2em; }
 .btn { display:inline-block; background-color:#ffd700; color: dodgerblue; padding:10px 20px; border-radius:5px; margin-top:15px; text-decoration:none; font-weight:bold; }
